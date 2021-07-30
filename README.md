@@ -5,7 +5,7 @@
 *** Basically that's all I want to say. Good Luck and have fun. 
 -->
 
-# Python_Advanced_Calculator
+# Python Advanced Calculator
 Scientific Calculator Created using Python
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -23,10 +23,10 @@ Scientific Calculator Created using Python
     <img src="images/GitHubLogo.JPG" alt="Logo" width="150" height="200">
   </a>
   
-  <h3 align="center">Python_Advanced_Calculator</h3>
+  <h3 align="center">Python Advanced Calculator</h3>
 
   <p align="center">
-    A ferry ticketing system with no GUI (Works only in console command)!
+    A calculator that works!
     <br />
     <a href="https://github.com/kin9787/Python_Advanced_Calculator"><strong>Explore the docs »</strong></a>
     <br />
