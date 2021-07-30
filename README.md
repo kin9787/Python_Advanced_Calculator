@@ -68,7 +68,7 @@ Scientific Calculator Created using Python
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-    <img src="images/CalculatorExample.JPG" alt="Logo" width="750" height="400" >
+    <img src="images/CalculatorExample.JPG" alt="Logo" width="500" height="700" >
 </p>
 
 <!-- [![Product Screen Shot][product-screenshot]](https://github.com/kin9787/Python_Advanced_Calculator/blob/master/images/CalculatorExample.JPG) -->
